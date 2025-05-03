@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Terminal themed Portfolio
 
@@ -14,3 +15,6 @@ There's also a surprise command surprise. Give it a try!
 This application uses JavaScript, HTML, and CSS.
 
 You can use this repository and customize the code to make your own similar portfolio.
+=======
+# cmd-portfolio
+>>>>>>> 657b80addd2537a393b572872e56dc2c58144923
